@@ -5,7 +5,7 @@ import pkg from "enquirer";
 
 const { Select, Input } = pkg;
 
-const token = "f9a235ef2e6460acc4ad04aa70976e";
+const token = "f9a235ef2e646004aa70976e";
 
 const dato = buildClient({
   apiToken: token,
